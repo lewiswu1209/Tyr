@@ -1,0 +1,12 @@
+[submodule "data/Yara-Rules"]
+	path = data/Yara-Rules
+	url = https://github.com/Yara-Rules/rules.git
+[submodule "vendor/ALB"]
+	path = vendor/ALB
+	url = https://github.com/Lucifer1993/ALB.git
+[submodule "vendor/volatility3"]
+	path = vendor/volatility3
+	url = https://github.com/volatilityfoundation/volatility3.git
+[submodule "vendor/Mitigating-Web-Shells"]
+	path = vendor/Mitigating-Web-Shells
+	url = https://github.com/nsacyber/Mitigating-Web-Shells.git
